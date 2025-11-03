@@ -12,7 +12,7 @@ export default function BannerNav() {
             <img
               src={landmarkLogo}
               alt="Landmark ENI - Immigration Services"
-              className="h-12 sm:h-14 object-contain transition-transform duration-300 hover:scale-105"
+              className="h-20 sm:h-24 object-contain transition-transform duration-300 hover:scale-105"
             />
           </a>
         </div>
